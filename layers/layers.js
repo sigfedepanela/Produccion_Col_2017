@@ -31,11 +31,11 @@ jsonSource_ProduccindeCaaPaneleraTon2017_1.addFeatures(features_ProduccindeCaaPa
                 source:jsonSource_ProduccindeCaaPaneleraTon2017_1, 
                 style: style_ProduccindeCaaPaneleraTon2017_1,
     title: 'Producción de Caña Panelera (Ton)- 2017<br />\
-    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_0.png" />  94763 - 139985 <br />\
+    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_0.png" />  4318 - 49540 <br />\
     <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_1.png" />  49540 - 94763 <br />\
-    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_2.png" />  4318 - 49540 <br />\
-    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_3.png" />  185207 - 230429 <br />\
-    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_4.png" />  139985 - 185207 <br />'
+    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_2.png" />  94763 - 139985 <br />\
+    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_3.png" />  139985 - 185207 <br />\
+    <img src="styles/legend/ProduccindeCaaPaneleraTon2017_1_4.png" />  185207 - 230429 <br />'
         });
 
 lyr_LimiteDepartamental_0.setVisible(true);lyr_ProduccindeCaaPaneleraTon2017_1.setVisible(true);
